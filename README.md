@@ -19,3 +19,9 @@ mein Lieblingsfach ist  Englisch
 ##Mein Ziel 
 
 ich möchte mit Github lernen , wie man gemeinsam an projekten arbeitet 
+
+
+## Meine Änderung 
+ 
+Diese Änderung habe ich in meinem eigenen Branch erstellt. 
+
