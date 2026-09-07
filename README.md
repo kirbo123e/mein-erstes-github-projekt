@@ -11,4 +11,11 @@ klasse: 25hbfi1
 
 - GitHub verstehen 
 - Dateien bearbeiten 
-- Mit anderen zusammenarbeiten 
+- Mit anderen zusammenarbeiten
+
+##Mein Lieblingsfach
+mein Lieblingsfach ist  Englisch 
+
+##Mein Ziel 
+
+ich möchte mit Github lernen , wie man gemeinsam an projekten arbeitet 
